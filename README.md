@@ -112,3 +112,5 @@
 [SocialRegHandler Ref](https://backstage.forgerock.com/knowledge/kb/article/a55994125)
 
 [Apex class Template for AWS Cognito SocialRegHandler](./SocialRegHandler.apxc)
+
+[Customizing user pool workflows with Lambda triggers](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools-working-with-aws-lambda-triggers.html)
